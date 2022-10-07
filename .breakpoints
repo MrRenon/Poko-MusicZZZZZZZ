@@ -1,0 +1,12 @@
+{
+  "files": {
+    "commands/utility/invite.js": [
+      {
+        "id": "76efd7d5-25ca-444d-96bc-b69da842872c",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ]
+  }
+}
